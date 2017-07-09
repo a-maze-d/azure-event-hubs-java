@@ -24,7 +24,7 @@ See our [Contribution Guidelines](./.github/CONTRIBUTING.md).
 This Java client library for Azure Event Hubs allows for both sending events to and receiving events from an Azure Event Hub. 
 
 An **event publisher** is a source of telemetry data, diagnostics information, usage logs, or other log data, as 
-part of an emvbedded device solution, a mobile device application, a game title running on a console or other device, 
+part of an embedded device solution, a mobile device application, a game title running on a console or other device, 
 some client or server based business solution, or a web site.  
 
 An **event consumer** picks up such information from the Event Hub and processes it. Processing may involve aggregation, complex 
